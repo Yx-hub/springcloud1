@@ -6,7 +6,7 @@ spring:
       override-none: true
 
 server:
-  port: 8101
+  port: 8102
 
 
 
